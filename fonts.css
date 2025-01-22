@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Blank-River';
+    src: url('/Assets/Fonts/Blank\ River.ttf')  format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pincoya-Black';
+    src: url('Assets/Fonts/pincoyablack.otf') format('opentype') ;
+    font-style: normal;
+}
